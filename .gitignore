@@ -1,5 +1,6 @@
 data/
 car_sales_predictor/
+instruct_fine_tune/mistral-7b-style/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
